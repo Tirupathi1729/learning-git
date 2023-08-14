@@ -4,3 +4,6 @@ variable "var" {
 variable "var1" {
   default = "everyone"
 }
+variable "var2" {
+  default = "hello"
+}
